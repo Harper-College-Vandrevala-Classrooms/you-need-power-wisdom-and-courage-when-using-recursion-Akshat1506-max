@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.csc.TestTriangleNumberCalculator" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-19T21:38:12" hostname="Akshats-MacBook-Air.local" time="0.007">
+<testsuite name="com.csc.TestTriangleNumberCalculator" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-11-07T04:17:20" hostname="Akshats-MacBook-Air.local" time="0.01">
   <properties/>
-  <testcase name="testAdd()" classname="com.csc.TestTriangleNumberCalculator" time="0.006"/>
-  <testcase name="testSubtract()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
-  <testcase name="testValue()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testDivideByZero()" classname="com.csc.TestTriangleNumberCalculator" time="0.005"/>
+  <testcase name="testAdd()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testSubtract()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testValue()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testDivide()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testMultiply()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testSequence()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
